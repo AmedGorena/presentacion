@@ -5,6 +5,8 @@ body{
 slide {
 	background: yellow;
 }
-container{
+.conte{
+	border: 1px solid #ff0000;
+	width: 50%;
 
 }

@@ -3,4 +3,7 @@ Router.configure({
 });
 Router.route("/",function(){
 	this.render("post");
-})
+});
+Router.route("/newpost",function(){
+	this.render("usuarioposts");
+});
